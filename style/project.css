@@ -72,3 +72,11 @@ nav ul li{
 .table{
     display: flex;
 }
+.al{
+    display: flex;
+    padding: 30px;
+    box-shadow: 0px 6px 15px 0px;
+    border-radius: 5px;
+    margin-top: 130px;
+
+}
